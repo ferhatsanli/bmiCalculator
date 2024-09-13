@@ -18,4 +18,5 @@ fun main() {
     else
         res = "overweight"
     println("You are in $res range.")
+    println("test")
 }
